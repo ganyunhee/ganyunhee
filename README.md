@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on ***Bootcamp, Internship, Algorithm Tests***
 - 🌱 I'm currently learning ***FE&WebDev (React, TypeScript), DeepLearning (Python), Figma, Motion Graphics***
-- 📔 I have experience on ***HTML/CSS/JS, C/C++, Java, Python, OpenGL(2D&3D Graphics), OpenFrameworks(Creative Coding), Linux, Photo and Video Editing(GIMP, Hitfilm Express)***
+- 📔 I have experience with ***HTML/CSS/JS, C/C++, Java, Python, OpenGL(2D&3D Graphics), OpenFrameworks(Creative Coding), Linux, GIMP&Hitfilm Express(Photo and Video Editing)***
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=ganyunhee&theme=gotham&hide_border=true)
 
