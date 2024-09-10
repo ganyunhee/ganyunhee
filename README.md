@@ -9,7 +9,7 @@
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=ganyunhee&theme=gotham&hide_border=true)
 
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ganyunhee&theme=gotham&hide_border=true&hide=jupyter%20notebook)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ganyunhee&theme=gotham&hide_border=true&hide=html,jupyter%20notebook)
 
 <!--
 **ganyunhee/ganyunhee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
